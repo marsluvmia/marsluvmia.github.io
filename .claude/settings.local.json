@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(hexo init *)",
+      "Read(//c/Users/1/AI/**)",
+      "Bash(cp -r hexo-temp/* boke/)",
+      "Bash(cp -r hexo-temp/.* boke/)",
+      "Bash(rm -rf hexo-temp)",
+      "Bash(npm run *)"
+    ]
+  }
+}
